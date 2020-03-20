@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/antiredux/static/js/main.45a85680.chunk.js",
+    "main.js.map": "/antiredux/static/js/main.45a85680.chunk.js.map",
+    "runtime-main.js": "/antiredux/static/js/runtime-main.a611c20d.js",
+    "runtime-main.js.map": "/antiredux/static/js/runtime-main.a611c20d.js.map",
+    "static/js/2.26fcfab2.chunk.js": "/antiredux/static/js/2.26fcfab2.chunk.js",
+    "static/js/2.26fcfab2.chunk.js.map": "/antiredux/static/js/2.26fcfab2.chunk.js.map",
+    "index.html": "/antiredux/index.html",
+    "precache-manifest.0387add76b55a73c5520cce92e40f29d.js": "/antiredux/precache-manifest.0387add76b55a73c5520cce92e40f29d.js",
+    "service-worker.js": "/antiredux/service-worker.js",
+    "static/js/2.26fcfab2.chunk.js.LICENSE.txt": "/antiredux/static/js/2.26fcfab2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a611c20d.js",
+    "static/js/2.26fcfab2.chunk.js",
+    "static/js/main.45a85680.chunk.js"
+  ]
+}
