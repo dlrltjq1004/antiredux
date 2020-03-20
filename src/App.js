@@ -1,7 +1,15 @@
-import React from "react";
+import React, { Component } from "react";
+import AppPresenter from "./Components/App/AppPresenter";
+import Store from "store";
 
-function App() {
-  return <div className="App"></div>;
+class AppContainer extends Component {
+  render() {
+    return (
+      <Store.Provider>
+        <AppPresenter />
+      </Store.Provider>
+    );
+  }
 }
 
-export default App;
+export default AppContainer;
